@@ -11,7 +11,7 @@ const orders: Order[] = [
       {
         product: {
           name: "Pizza quatro queijos",
-          imagePath: "1688874757656-quatro-queijos.png",
+          imagePath: "1688874998910-quatro-queijos.png",
           price: 40,
         },
         quantity: 2,
